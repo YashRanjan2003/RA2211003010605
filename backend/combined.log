@@ -1,0 +1,29 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-20T13:48:49.707Z"}
+{"error":"Request failed with status code 401","level":"error","message":"Registration failed","timestamp":"2025-03-20T13:48:49.814Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T13:51:35.657Z"}
+{"error":"Request failed with status code 401","level":"error","message":"Registration failed","timestamp":"2025-03-20T13:51:35.802Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T13:52:33.685Z"}
+{"error":"Request failed with status code 401","level":"error","message":"Registration failed","timestamp":"2025-03-20T13:52:34.542Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-20T13:53:43.644Z"}
+{"error":"Request failed with status code 401","level":"error","message":"Registration failed","timestamp":"2025-03-20T13:53:44.182Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T13:56:49.025Z"}
+{"accessCode":"***","companyName":"AffordTech","level":"info","message":"Attempting registration with data:","ownerEmail":"rahul@abc.edu","ownerName":"Rahul","rollNo":"1","timestamp":"2025-03-20T13:56:49.031Z"}
+{"config":{"method":"post","url":"http://20.244.56.144/test/register"},"data":{"message":"given access code is invalid"},"error":"Request failed with status code 401","level":"error","message":"Registration failed","status":401,"timestamp":"2025-03-20T13:56:49.114Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T14:00:11.708Z"}
+{"accessCode":"***","companyName":"goMart","level":"info","message":"Attempting registration with data:","ownerEmail":"rahul@abc.edu","ownerName":"Rahul","rollNo":"1","timestamp":"2025-03-20T14:00:11.718Z"}
+{"config":{"method":"post","url":"http://20.244.56.144/test/register"},"data":{"message":"given access code is invalid"},"error":"Request failed with status code 401","level":"error","message":"Registration failed","status":401,"timestamp":"2025-03-20T14:00:11.816Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T14:02:19.893Z"}
+{"accessCode":"***","companyName":"goMart","level":"info","message":"Attempting registration with data:","ownerEmail":"rahul@abc.edu","ownerName":"Rahul","rollNo":"1","timestamp":"2025-03-20T14:02:19.899Z"}
+{"config":{"method":"post","url":"http://20.244.56.144/test/register"},"data":{"message":"given access code is invalid"},"error":"Request failed with status code 401","level":"error","message":"Registration failed","status":401,"timestamp":"2025-03-20T14:02:19.984Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T14:05:44.842Z"}
+{"accessCode":"***","companyName":"goMart","level":"info","message":"Attempting registration with data:","ownerEmail":"yr4232@srmist.edu.in","ownerName":"Yash","rollNo":"RA2211003010605","timestamp":"2025-03-20T14:05:44.850Z"}
+{"config":{"method":"post","url":"http://20.244.56.144/test/register"},"data":{"errors":[{"ownerName":"has to be atleast 5 characters"}]},"error":"Request failed with status code 400","level":"error","message":"Registration failed","status":400,"timestamp":"2025-03-20T14:05:44.947Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T14:06:04.865Z"}
+{"accessCode":"***","companyName":"goMart","level":"info","message":"Attempting registration with data:","ownerEmail":"yr4232@srmist.edu.in","ownerName":"YashRanjan","rollNo":"RA2211003010605","timestamp":"2025-03-20T14:06:04.870Z"}
+{"config":{"method":"post","url":"http://20.244.56.144/test/register"},"data":{"message":"given access code is invalid"},"error":"Request failed with status code 401","level":"error","message":"Registration failed","status":401,"timestamp":"2025-03-20T14:06:04.963Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T14:06:32.610Z"}
+{"accessCode":"***","companyName":"goMart","level":"info","message":"Attempting registration with data:","ownerEmail":"yr4232@srmist.edu.in","ownerName":"YashRanjan","rollNo":"RA2211003010605","timestamp":"2025-03-20T14:06:32.617Z"}
+{"config":{"method":"post","url":"http://20.244.56.144/test/register"},"data":{"message":"given access code is invalid"},"error":"Request failed with status code 401","level":"error","message":"Registration failed","status":401,"timestamp":"2025-03-20T14:06:32.702Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-03-20T14:06:52.484Z"}
+{"accessCode":"***","companyName":"goMart","level":"info","message":"Attempting registration with data:","ownerEmail":"yr4232@srmist.edu.in","ownerName":"YashRanjan","rollNo":"RA2211003010605","timestamp":"2025-03-20T14:06:52.489Z"}
+{"config":{"method":"post","url":"http://20.244.56.144/test/register"},"data":{"message":"given access code is invalid"},"error":"Request failed with status code 401","level":"error","message":"Registration failed","status":401,"timestamp":"2025-03-20T14:06:52.572Z"}
